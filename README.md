@@ -1,16 +1,54 @@
-# flutter_contactsapp
+# Flutter Contacts App
 
-A new Flutter project.
+A Flutter application to manage contacts on both Android and iOS devices.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Overview
+The Flutter Contacts App allows users to view, add, search, and delete contacts on their mobile devices. It provides a user-friendly interface for managing contacts efficiently.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
+ 
+- View a list of contacts with their names and phone numbers.
+- Add new contacts with names, phone numbers, and email addresses.
+- Search for contacts by name.
+- Navigate to the phone app to call contacts.
+- Delete contacts from the list.
+- View detailed information about each contact, including their name, phone number, email address, and contact type.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+## Screenshots
+
+<img src="images/1.jpeg" alt="Description" style="width:300px;"> <img src="images/2.jpeg" alt="Description" style="width:300px;">
+<img src="images/3.jpeg" alt="Description" style="width:300px;">
+<img src="images/4.jpeg" alt="Description" style="width:300px;">
+<img src="images/5.jpeg" alt="Description" style="width:300px;">
+<img src="images/6.jpeg" alt="Description" style="width:300px;">
+
+
+
+## Installation
+### Requirements
+**1.** Clone the repository.<br>
+**2.** Navigate to the project directory.<br>
+**3.** Install dependencies:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;contacts_service: ^0.6.3<br>
+&nbsp;&nbsp;&nbsp;&nbsp;url_launcher: ^6.2.5<br>
+&nbsp;&nbsp;&nbsp;&nbsp;flutter_contacts: ^1.1.7+1<br>
+
+**4.** Run the app
+
+
+
+
+
+## Usage
+- Open the app on your device or emulator.
+- Browse the list of contacts or use the search feature to find specific contacts.
+- Tap on a contact to view detailed information.
+- Navigate to the phone app to call a contact.
+- Use the add button to create a new contact.
+- Use the delete button to remove a contact.
+
+
