@@ -29,7 +29,7 @@ The Flutter Contacts App allows users to view, add, search, and delete contacts 
 
 
 ## Installation
-### Requirements
+
 **1.** Clone the repository.<br>
 **2.** Navigate to the project directory.<br>
 **3.** Install dependencies:<br>
